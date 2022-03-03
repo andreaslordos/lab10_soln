@@ -850,7 +850,7 @@ let time_multiply (mult : int -> int -> int)
 Exercise 14: Fill in the table below:
 ....................................................................*)
    
-(* Here's what we found. Of course, you're results might vary a bit.
+(* Here's what we found. Of course, your results might vary a bit.
 
                        |    15 * 50           |  1241342345 *
                        |                      |  3237461243
